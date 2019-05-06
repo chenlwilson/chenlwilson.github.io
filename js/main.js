@@ -79,9 +79,9 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
-      typeSpeed: 100,
-      loop: true,
+      strings: ["I build full-stack web applications in San Francisco Bay Area. I am passionate about Javascript"],
+      typeSpeed: 10,
+      loop: false,
     });
   });
 
